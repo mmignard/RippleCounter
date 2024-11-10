@@ -13,8 +13,8 @@ A 4-bit ripple counter, a NAND gate, and an AN gate
 
 ## How to test
 
-Explain how to use your project
+Try your best
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+DIP switch, hex LED
