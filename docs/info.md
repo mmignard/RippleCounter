@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A 4-bit ripple counter, a NAND gate, and an AN gate
 
 ## How to test
 
